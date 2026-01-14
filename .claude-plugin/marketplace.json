@@ -9,7 +9,7 @@
     {
       "name": "personal-crm",
       "description": "Capture meetups, contacts, and interactions from natural language into Notion CRM",
-      "source": "github:pwarnock/personal-crm",
+      "source": "https://github.com/pwarnock/personal-crm",
       "version": "0.1.0",
       "homepage": "https://github.com/pwarnock/personal-crm"
     }
