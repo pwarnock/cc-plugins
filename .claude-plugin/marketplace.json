@@ -1,6 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "cc-plugins",
+  "version": "1.0.0",
   "description": "Personal Claude Code plugin marketplace",
   "owner": {
     "name": "Peter Warnock",
@@ -10,7 +11,7 @@
     {
       "name": "personal-crm",
       "description": "Capture meetups, contacts, and interactions from natural language into Notion CRM",
-      "source": "https://raw.githubusercontent.com/pwarnock/personal-crm/main/.claude-plugin/plugin.json",
+      "source": "https://github.com/pwarnock/personal-crm.git",
       "version": "0.1.0",
       "homepage": "https://github.com/pwarnock/personal-crm"
     }
