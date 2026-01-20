@@ -25,6 +25,12 @@
       "description": "Strong's Concordance MCP - Grounded Greek/Hebrew word lookups for AI",
       "source": { "source": "url", "url": "https://github.com/pwarnock/kjbc-mcp.git" },
       "homepage": "https://github.com/pwarnock/kjbc-mcp"
+    },
+    {
+      "name": "vercel-skills",
+      "description": "Curated Vercel agent skills: React best practices, web design guidelines, and Vercel deployment",
+      "source": { "source": "url", "url": "https://github.com/pwarnock/vercel-skills.git" },
+      "homepage": "https://github.com/pwarnock/vercel-skills"
     }
   ]
 }
