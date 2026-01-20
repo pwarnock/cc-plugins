@@ -9,7 +9,7 @@ Personal Claude Code plugin marketplace.
 | [personal-crm](https://github.com/pwarnock/personal-crm) | Capture meetups, contacts, and interactions from natural language into Notion CRM |
 | [Notion](https://github.com/makenotion/claude-code-notion-plugin) | Notion Skills + Notion MCP server packaged as a Claude Code plugin |
 | [kjbc](https://github.com/pwarnock/kjbc-mcp) | Strong's Concordance MCP - Grounded Greek/Hebrew word lookups for AI |
-| [vercel-skills](https://github.com/pwarnock/vercel-skills) | Curated Vercel agent skills: React best practices, web design guidelines, and Vercel deployment |
+| [vercel-skills](https://github.com/pwarnock/vercel-skills) | Curated Vercel developer toolkit: React best practices, web design guidelines, browser automation, and deployment |
 
 ## Installation
 

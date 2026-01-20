@@ -28,7 +28,7 @@
     },
     {
       "name": "vercel-skills",
-      "description": "Curated Vercel agent skills: React best practices, web design guidelines, and Vercel deployment",
+      "description": "Curated Vercel developer toolkit: React best practices, web design guidelines, browser automation, and deployment",
       "source": { "source": "url", "url": "https://github.com/pwarnock/vercel-skills.git" },
       "homepage": "https://github.com/pwarnock/vercel-skills"
     }
