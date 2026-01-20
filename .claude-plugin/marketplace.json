@@ -31,6 +31,12 @@
       "description": "Curated Vercel developer toolkit: React best practices, web design guidelines, browser automation, and deployment",
       "source": { "source": "url", "url": "https://github.com/pwarnock/vercel-skills.git" },
       "homepage": "https://github.com/pwarnock/vercel-skills"
+    },
+    {
+      "name": "githits-mcp",
+      "description": "GitHits MCP server - Search millions of code examples from open source repositories",
+      "source": { "source": "url", "url": "https://github.com/pwarnock/githits-mcp.git" },
+      "homepage": "https://github.com/pwarnock/githits-mcp"
     }
   ]
 }

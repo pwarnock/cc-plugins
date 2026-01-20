@@ -10,6 +10,7 @@ Personal Claude Code plugin marketplace.
 | [Notion](https://github.com/makenotion/claude-code-notion-plugin) | Notion Skills + Notion MCP server packaged as a Claude Code plugin |
 | [kjbc](https://github.com/pwarnock/kjbc-mcp) | Strong's Concordance MCP - Grounded Greek/Hebrew word lookups for AI |
 | [vercel-skills](https://github.com/pwarnock/vercel-skills) | Curated Vercel developer toolkit: React best practices, web design guidelines, browser automation, and deployment |
+| [githits-mcp](https://github.com/pwarnock/githits-mcp) | GitHits MCP server - Search millions of code examples from open source repositories |
 
 ## Installation
 
